@@ -37,6 +37,14 @@ nav ul {
 	list-style-type: none; /* chowa kropki w liście w bloku nav */
 }
 
+button {
+background: #ffb366;
+/*#ffd9b3;*/
+font-size: 15px;
+  width:128px;
+  height:90px;
+}
+
 section::after {
 	display: table;
 	clear: both;
